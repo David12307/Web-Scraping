@@ -24,3 +24,5 @@ Install them using the following command:
 2. Use the interface to select a brand, view available models and press the 'Cauta' button.
 ! If you want a specific brand and a model that isn't displayed already, press the 'Cauta un model de masina specific' and enter the brand and model name. Make sure it's correct and the car is listed on autovit.ro
 3. Wait for the results to be displayed.
+
+https://youtu.be/ewd79X7H1WM
