@@ -98,8 +98,6 @@ def getCars(brand, car_name):
 
         time.sleep(8)
 
-        print("Am ajuns aici")
-
         try:
             driver.find_element(By.CLASS_NAME, "pagination-item__disabled")
             print("A ajuns la ultima pagina.")
@@ -128,7 +126,6 @@ def getCars(brand, car_name):
 
         writer.writeheader()
         
-        # Get the most out of this iteration
         for car in cars:
             prices += car["price"] # Add every price of the car in one variable for the average price calculation
 
