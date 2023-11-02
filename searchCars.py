@@ -19,7 +19,6 @@ def getCars(brand, car_name):
     underCars=[] # Under the price average
     avgCars=[] # Average price
     overCars=[] # Over the price average
-    otherCars=[] # Not specified
 
     prices=0
 
