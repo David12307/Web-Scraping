@@ -10,7 +10,7 @@ The web scraping project consists of two main components:
 2. `main.py`: This script provides a GUI for the web scraping project. It allows users to select a car brand and a model or if they want something that is not provided by the list, they can search for a specific brand and model. It then displays the results, including average price and the cheapest, average and expensive ones.
 
 ## Requirments:
-- in order to run the project.
+(in order to run the project.)
 * Selenium
 * BeautifulSoup
 * Firefox web browser
