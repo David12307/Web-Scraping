@@ -26,3 +26,4 @@ Install them using the following command:
 3. Wait for the results to be displayed.
 
 https://youtu.be/ewd79X7H1WM
+[![Video example](https://img.youtube.com/vi/ewd79X7H1WM/maxresdefault.jpg)](https://youtu.be/T-ewd79X7H1WM)
